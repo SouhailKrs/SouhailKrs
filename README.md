@@ -1,4 +1,8 @@
-### As a computer science student at ESPRIT, I have built a solid foundation in software development through my studies and research. My practical experience includes creating websites, mobile apps, and desktop apps through internships and personal projects. I am looking forward to applying my skills and knowledge in a professional environment.
+### Hello there 👋
+I am Souhail Krissaane a computer science student at ESPRIT.Through my studies and research, I have built a solid foundation in software development . My practical experience includes creating websites, mobile, and desktop apps through internships and personal projects. I am looking forward to applying my skills and knowledge in a professional environment.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SouhailKrs&theme=radical)
+
 
 <!--
 **SouhailKrs/SouhailKrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
