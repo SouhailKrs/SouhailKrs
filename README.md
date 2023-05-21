@@ -1,6 +1,6 @@
 ### ***Hello there*** 👋 :
 
-I am Souhail Krissaane a computer science student at ESPRIT. Through my studies and research, I have built a solid foundation in software development. My practical experience includes creating websites, mobile, and desktop apps through internships and personal projects. I am looking forward to applying my skills and knowledge in a professional environment.
+I am Souhail Krissaane, a software engineering student at ESPRIT. I have a strong foundation in software development, with experience in building websites, mobile , and desktop apps. I have gained this experience through my studies, research, internships, and personal projects. I am eager to apply my skills and knowledge in a professional setting.
 
 
 
