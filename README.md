@@ -1,5 +1,5 @@
 ### ***Hello there*** 👋 :
-I am Souhail Krissaane, a software engineering student specializing in mobile application development at ESPRIT. I have gained valuable experience through studies, internships, and personal projects, focusing on creating exceptional mobile experiences. Passionate about software engineering, I strive to push boundaries and stay at the forefront of this dynamic industry.
+I am Souhail Krissaane, a software engineering student specializing in mobile application development at ESPRIT. I have gained valuable experience through studies, internships, and personal projects, focusing on creating exceptional mobile experiences. My passion for software development drives me to continuously push boundaries and stay at the forefront of this ever-evolving industry.
 
 
 ![](https://github-readme-stats.vercel.app/api?username=SouhailKrs&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
