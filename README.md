@@ -1,6 +1,6 @@
 ### ***Hello there*** 👋 :
-I am Souhail Krissaane, a software engineering student specializing in mobile application development at ESPRIT. I have gained valuable experience through studies, internships, and personal projects, focusing on creating exceptional mobile experiences. My passion for software development drives me to continuously push boundaries and stay at the forefront of this ever-evolving industry.
 
+Welcome to my Github! My name is Souhail Krissaane I'm a computer science student at ESPRIT with a strong passion for technology and a focus on software development. My journey includes academic studies, internships, and personal projects, building a solid foundation in computer science principles. I'm constantly driven to innovate and stay updated with industry trends. My goal is to create exceptional apps that positively impact users' lives. Let's connect and explore opportunities together!
 
 
 
